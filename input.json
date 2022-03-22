@@ -5,7 +5,7 @@
         "name": "s1mple"
     },
     "keywords": [
-        "iKuddle"
+        
     ],
     "packages": [
         {
@@ -13,6 +13,102 @@
         },
         {
             "url": "https://github.com/SnapKit/SnapKit"
+        },
+        {
+            "url": "https://github.com/onevcat/Kingfisher"
+        },
+        {
+            "url": "https://github.com/Yeatse/KingfisherWebP"
+        },
+        {
+            "url": "https://github.com/Ramotion/fluid-slider/"
+        },
+        {
+            "url": "https://github.com/scenee/FloatingPanel"
+        },
+        {
+            "url": "https://github.com/wangchaodong/RAGTextField"
+        },
+        {
+            "url": "https://github.com/longitachi/ZLPhotoBrowser"
+        },
+        {
+            "url": "https://github.com/danielgindi/Charts"
+        },
+        {
+            "url": "https://github.com/wangchaodong/ActiveLabel.swift"
+        },
+        {
+            "url": "https://github.com/amirdew/CollectionViewPagingLayout"
+        },
+        {
+            "url": "https://github.com/SwiftKickMobile/SwiftMessages"
+        },
+        {
+            "url": "https://github.com/ChiliLabs/CHIPageControl"
+        },
+        {
+            "url": "https://github.com/WenchaoD/FSCalendar"
+        },
+        {
+            "url": "https://github.com/dzenbot/DZNEmptyDataSet"
+        },
+        {
+            "url": "https://github.com/pujiaxin33/JXSegmentedView"
+        },
+        {
+            "url": "https://github.com/CoderMJLee/MJRefresh"
+        },
+        {
+            "url": "https://github.com/eggswift/pull-to-refresh"
+        },
+        {
+            "url": "https://github.com/ivanvorobei/SPPermissions"
+        },
+        {
+            "url": "https://github.com/realm/realm-swift"
+        },
+        {
+            "url": "https://github.com/duemunk/Async"
+        },
+        {
+            "url": "https://github.com/qiniu/objc-sdk"
+        },
+        {
+            "url": "https://github.com/hackiftekhar/IQKeyboardManager"
+        },
+        {
+            "url": "https://github.com/emqx/CocoaMQTT.git"
+        },
+        {
+            "url": "https://github.com/sunshinejr/SwiftyUserDefaults"
+        },
+        {
+            "url": "https://github.com/jordanebelanger/SwiftyBluetooth"
+        },
+        {
+            "url": "https://github.com/apple/swift-protobuf"
+        },
+        {
+            "url": "https://github.com/SwiftyJSON/SwiftyJSON"
+        },
+        {
+            "url": "https://github.com/alibaba/HandyJSON"
+        },
+        {
+            "url": "https://github.com/Moya/Moya"
+        },
+        {
+            "url": "https://github.com/Alamofire/AlamofireNetworkActivityIndicator"
+        },
+        {
+            "url": "https://github.com/ashleymills/Reachability.swift"
+        },
+        {
+            "url": "https://github.com/mac-cain13/R.swift"
+        },
+        {
+            "url": "https://github.com/SwifterSwift/SwifterSwift"
         }
     ]
 }

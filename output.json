@@ -1,167 +1,26 @@
 {
   "formatVersion" : "1.0",
-  "generatedAt" : "2022-03-22T05:44:32Z",
+  "generatedAt" : "2022-03-22T13:08:49Z",
   "generatedBy" : {
     "name" : "s1mple"
   },
   "keywords" : [
-    "iKuddle"
+
   ],
   "name" : "cd's swift packages",
   "overview" : "This collection contains my favorite Swift packages.",
   "packages" : [
     {
       "keywords" : [
-        "email",
-        "smtp",
-        "swift"
-      ],
-      "license" : {
-        "name" : "Apache-2.0",
-        "url" : "https://raw.githubusercontent.com/Kitura/Swift-SMTP/master/LICENSE.txt"
-      },
-      "readmeURL" : "https://raw.githubusercontent.com/Kitura/Swift-SMTP/master/README.md",
-      "summary" : "Swift SMTP client",
-      "url" : "https://github.com/Kitura/Swift-SMTP",
-      "versions" : [
-        {
-          "defaultToolsVersion" : "5.0",
-          "manifests" : {
-            "5.0" : {
-              "packageName" : "SwiftSMTP",
-              "products" : [
-                {
-                  "name" : "SwiftSMTP",
-                  "targets" : [
-                    "SwiftSMTP"
-                  ],
-                  "type" : {
-                    "library" : [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets" : [
-                {
-                  "moduleName" : "SwiftSMTP",
-                  "name" : "SwiftSMTP"
-                }
-              ],
-              "toolsVersion" : "5.0"
-            }
-          },
-          "version" : "6.0.0"
-        },
-        {
-          "defaultToolsVersion" : "5.0",
-          "manifests" : {
-            "5.0" : {
-              "packageName" : "SwiftSMTP",
-              "products" : [
-                {
-                  "name" : "SwiftSMTP",
-                  "targets" : [
-                    "SwiftSMTP"
-                  ],
-                  "type" : {
-                    "library" : [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets" : [
-                {
-                  "moduleName" : "SwiftSMTP",
-                  "name" : "SwiftSMTP"
-                }
-              ],
-              "toolsVersion" : "5.0"
-            }
-          },
-          "version" : "5.1.200"
-        },
-        {
-          "defaultToolsVersion" : "5.0",
-          "manifests" : {
-            "5.0" : {
-              "packageName" : "SwiftSMTP",
-              "products" : [
-                {
-                  "name" : "SwiftSMTP",
-                  "targets" : [
-                    "SwiftSMTP"
-                  ],
-                  "type" : {
-                    "library" : [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets" : [
-                {
-                  "moduleName" : "SwiftSMTP",
-                  "name" : "SwiftSMTP"
-                }
-              ],
-              "toolsVersion" : "5.0"
-            }
-          },
-          "version" : "5.1.2"
-        },
-        {
-          "defaultToolsVersion" : "5.0",
-          "manifests" : {
-            "5.0" : {
-              "packageName" : "SwiftSMTP",
-              "products" : [
-                {
-                  "name" : "SwiftSMTP",
-                  "targets" : [
-                    "SwiftSMTP"
-                  ],
-                  "type" : {
-                    "library" : [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets" : [
-                {
-                  "moduleName" : "SwiftSMTP",
-                  "name" : "SwiftSMTP"
-                }
-              ],
-              "toolsVersion" : "5.0"
-            }
-          },
-          "version" : "5.1.1"
-        }
-      ]
-    },
-    {
-      "keywords" : [
-        "auto",
-        "autolayout",
-        "cocoapods",
-        "constraints",
-        "dsl",
-        "layout",
-        "snapkit",
-        "swift",
-        "ui",
-        "xcode"
+
       ],
       "license" : {
         "name" : "MIT",
-        "url" : "https://raw.githubusercontent.com/SnapKit/SnapKit/develop/LICENSE"
+        "url" : "https://raw.githubusercontent.com/scenee/FloatingPanel/master/LICENSE"
       },
-      "readmeURL" : "https://raw.githubusercontent.com/SnapKit/SnapKit/develop/README.md",
-      "summary" : "A Swift Autolayout DSL for iOS & OS X",
-      "url" : "https://github.com/SnapKit/SnapKit",
+      "readmeURL" : "https://raw.githubusercontent.com/scenee/FloatingPanel/master/README.md",
+      "summary" : "A clean and easy-to-use floating panel UI component for iOS",
+      "url" : "https://github.com/scenee/FloatingPanel",
       "versions" : [
         {
           "defaultToolsVersion" : "5.0",
@@ -171,22 +30,14 @@
                 {
                   "name" : "ios",
                   "version" : "10.0"
-                },
-                {
-                  "name" : "macos",
-                  "version" : "10.12"
-                },
-                {
-                  "name" : "tvos",
-                  "version" : "10.0"
                 }
               ],
-              "packageName" : "SnapKit",
+              "packageName" : "FloatingPanel",
               "products" : [
                 {
-                  "name" : "SnapKit",
+                  "name" : "FloatingPanel",
                   "targets" : [
-                    "SnapKit"
+                    "FloatingPanel"
                   ],
                   "type" : {
                     "library" : [
@@ -197,25 +48,31 @@
               ],
               "targets" : [
                 {
-                  "moduleName" : "SnapKit",
-                  "name" : "SnapKit"
+                  "moduleName" : "FloatingPanel",
+                  "name" : "FloatingPanel"
                 }
               ],
               "toolsVersion" : "5.0"
             }
           },
-          "version" : "5.0.1"
+          "version" : "2.5.2"
         },
         {
           "defaultToolsVersion" : "5.0",
           "manifests" : {
             "5.0" : {
-              "packageName" : "SnapKit",
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "10.0"
+                }
+              ],
+              "packageName" : "FloatingPanel",
               "products" : [
                 {
-                  "name" : "SnapKit",
+                  "name" : "FloatingPanel",
                   "targets" : [
-                    "SnapKit"
+                    "FloatingPanel"
                   ],
                   "type" : {
                     "library" : [
@@ -226,25 +83,31 @@
               ],
               "targets" : [
                 {
-                  "moduleName" : "SnapKit",
-                  "name" : "SnapKit"
+                  "moduleName" : "FloatingPanel",
+                  "name" : "FloatingPanel"
                 }
               ],
               "toolsVersion" : "5.0"
             }
           },
-          "version" : "5.0.0"
+          "version" : "2.5.1"
         },
         {
-          "defaultToolsVersion" : "4.0",
+          "defaultToolsVersion" : "5.0",
           "manifests" : {
-            "4.0" : {
-              "packageName" : "SnapKit",
+            "5.0" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "10.0"
+                }
+              ],
+              "packageName" : "FloatingPanel",
               "products" : [
                 {
-                  "name" : "SnapKit",
+                  "name" : "FloatingPanel",
                   "targets" : [
-                    "SnapKit"
+                    "FloatingPanel"
                   ],
                   "type" : {
                     "library" : [
@@ -255,14 +118,629 @@
               ],
               "targets" : [
                 {
-                  "moduleName" : "SnapKit",
-                  "name" : "SnapKit"
+                  "moduleName" : "FloatingPanel",
+                  "name" : "FloatingPanel"
+                }
+              ],
+              "toolsVersion" : "5.0"
+            }
+          },
+          "version" : "2.5.0"
+        },
+        {
+          "defaultToolsVersion" : "5.0",
+          "manifests" : {
+            "5.0" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "10.0"
+                }
+              ],
+              "packageName" : "FloatingPanel",
+              "products" : [
+                {
+                  "name" : "FloatingPanel",
+                  "targets" : [
+                    "FloatingPanel"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "FloatingPanel",
+                  "name" : "FloatingPanel"
+                }
+              ],
+              "toolsVersion" : "5.0"
+            }
+          },
+          "version" : "v1.7.6"
+        },
+        {
+          "defaultToolsVersion" : "5.0",
+          "manifests" : {
+            "5.0" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "10.0"
+                }
+              ],
+              "packageName" : "FloatingPanel",
+              "products" : [
+                {
+                  "name" : "FloatingPanel",
+                  "targets" : [
+                    "FloatingPanel"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "FloatingPanel",
+                  "name" : "FloatingPanel"
+                }
+              ],
+              "toolsVersion" : "5.0"
+            }
+          },
+          "version" : "v1.7.5"
+        },
+        {
+          "defaultToolsVersion" : "5.0",
+          "manifests" : {
+            "5.0" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "10.0"
+                }
+              ],
+              "packageName" : "FloatingPanel",
+              "products" : [
+                {
+                  "name" : "FloatingPanel",
+                  "targets" : [
+                    "FloatingPanel"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "FloatingPanel",
+                  "name" : "FloatingPanel"
+                }
+              ],
+              "toolsVersion" : "5.0"
+            }
+          },
+          "version" : "v1.7.4"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+        "ios",
+        "nsuserdefaults",
+        "swift",
+        "swifty"
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https://raw.githubusercontent.com/sunshinejr/SwiftyUserDefaults/master/LICENSE"
+      },
+      "readmeURL" : "https://raw.githubusercontent.com/sunshinejr/SwiftyUserDefaults/master/README.md",
+      "summary" : "Modern Swift API for NSUserDefaults",
+      "url" : "https://github.com/sunshinejr/SwiftyUserDefaults",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.0",
+          "manifests" : {
+            "5.0" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "macos",
+                  "version" : "10.11"
+                },
+                {
+                  "name" : "ios",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "2.0"
+                }
+              ],
+              "packageName" : "SwiftyUserDefaults",
+              "products" : [
+                {
+                  "name" : "SwiftyUserDefaults",
+                  "targets" : [
+                    "SwiftyUserDefaults"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftyUserDefaults",
+                  "name" : "SwiftyUserDefaults"
+                }
+              ],
+              "toolsVersion" : "5.0"
+            }
+          },
+          "version" : "5.3.0"
+        },
+        {
+          "defaultToolsVersion" : "5.0",
+          "manifests" : {
+            "5.0" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "macos",
+                  "version" : "10.11"
+                },
+                {
+                  "name" : "ios",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "2.0"
+                }
+              ],
+              "packageName" : "SwiftyUserDefaults",
+              "products" : [
+                {
+                  "name" : "SwiftyUserDefaults",
+                  "targets" : [
+                    "SwiftyUserDefaults"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftyUserDefaults",
+                  "name" : "SwiftyUserDefaults"
+                }
+              ],
+              "toolsVersion" : "5.0"
+            }
+          },
+          "version" : "5.2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.0",
+          "manifests" : {
+            "5.0" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "macos",
+                  "version" : "10.11"
+                },
+                {
+                  "name" : "ios",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "2.0"
+                }
+              ],
+              "packageName" : "SwiftyUserDefaults",
+              "products" : [
+                {
+                  "name" : "SwiftyUserDefaults",
+                  "targets" : [
+                    "SwiftyUserDefaults"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftyUserDefaults",
+                  "name" : "SwiftyUserDefaults"
+                }
+              ],
+              "toolsVersion" : "5.0"
+            }
+          },
+          "version" : "5.1.0"
+        },
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "SwiftyUserDefaults",
+              "products" : [
+                {
+                  "name" : "SwiftyUserDefaults",
+                  "targets" : [
+                    "SwiftyUserDefaults"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftyUserDefaults",
+                  "name" : "SwiftyUserDefaults"
                 }
               ],
               "toolsVersion" : "4.0"
             }
           },
-          "version" : "4.0.1"
+          "version" : "4.0.0"
+        },
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "SwiftyUserDefaults",
+              "products" : [
+                {
+                  "name" : "SwiftyUserDefaults",
+                  "targets" : [
+                    "SwiftyUserDefaults"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftyUserDefaults",
+                  "name" : "SwiftyUserDefaults"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "version" : "4.0.0-beta.2"
+        },
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "SwiftyUserDefaults",
+              "products" : [
+                {
+                  "name" : "SwiftyUserDefaults",
+                  "targets" : [
+                    "SwiftyUserDefaults"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftyUserDefaults",
+                  "name" : "SwiftyUserDefaults"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "version" : "4.0.0-beta.1"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+        "deserialization",
+        "json",
+        "json-fields",
+        "mapping",
+        "serialization",
+        "swift"
+      ],
+      "license" : {
+        "name" : "NOASSERTION",
+        "url" : "https://raw.githubusercontent.com/alibaba/HandyJSON/master/LICENSE"
+      },
+      "readmeURL" : "https://raw.githubusercontent.com/alibaba/HandyJSON/master/README.md",
+      "summary" : "A handy swift json-object serialization/deserialization library",
+      "url" : "https://github.com/alibaba/HandyJSON",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "HandyJSON",
+              "products" : [
+                {
+                  "name" : "HandyJSON",
+                  "targets" : [
+                    "HandyJSON"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "HandyJSON",
+                  "name" : "HandyJSON"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "version" : "5.0.4-beta"
+        },
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "HandyJSON",
+              "products" : [
+                {
+                  "name" : "HandyJSON",
+                  "targets" : [
+                    "HandyJSON"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "HandyJSON",
+                  "name" : "HandyJSON"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "version" : "5.0.3-beta"
+        },
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "HandyJSON",
+              "products" : [
+                {
+                  "name" : "HandyJSON",
+                  "targets" : [
+                    "HandyJSON"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "HandyJSON",
+                  "name" : "HandyJSON"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "version" : "5.0.2"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https://raw.githubusercontent.com/ashleymills/Reachability.swift/master/LICENSE"
+      },
+      "readmeURL" : "https://raw.githubusercontent.com/ashleymills/Reachability.swift/master/README.md",
+      "summary" : "Replacement for Apple's Reachability re-written in Swift with closures",
+      "url" : "https://github.com/ashleymills/Reachability.swift",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "Reachability",
+              "products" : [
+                {
+                  "name" : "Reachability",
+                  "targets" : [
+                    "Reachability"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Reachability",
+                  "name" : "Reachability"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "version" : "v5.1.0"
+        },
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "Reachability",
+              "products" : [
+                {
+                  "name" : "Reachability",
+                  "targets" : [
+                    "Reachability"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Reachability",
+                  "name" : "Reachability"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "version" : "v5.0.0"
+        },
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "Reachability",
+              "products" : [
+                {
+                  "name" : "Reachability",
+                  "targets" : [
+                    "Reachability"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Reachability",
+                  "name" : "Reachability"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "version" : "v5.0.0-beta1"
+        },
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "Reachability",
+              "products" : [
+                {
+                  "name" : "Reachability",
+                  "targets" : [
+                    "Reachability"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Reachability",
+                  "name" : "Reachability"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "version" : "v4.3.1"
+        },
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "Reachability",
+              "products" : [
+                {
+                  "name" : "Reachability",
+                  "targets" : [
+                    "Reachability"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Reachability",
+                  "name" : "Reachability"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "version" : "v4.3.0"
         }
       ]
     }
