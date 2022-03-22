@@ -1,0 +1,18 @@
+{
+    "name": "cd's swift packages",
+    "overview": "This collection contains my favorite Swift packages.",
+    "author": {
+        "name": "s1mple"
+    },
+    "keywords": [
+        "iKuddle"
+    ],
+    "packages": [
+        {
+            "url": "https://github.com/Kitura/Swift-SMTP"
+        },
+        {
+            "url": "https://github.com/SnapKit/SnapKit"
+        }
+    ]
+}
