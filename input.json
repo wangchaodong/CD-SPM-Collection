@@ -1,11 +1,11 @@
 {
-    "name": "cd's swift packages",
+    "name": "s1mple's Swfit packages collection",
     "overview": "This collection contains my favorite Swift packages.",
     "author": {
         "name": "s1mple"
     },
     "keywords": [
-        
+
     ],
     "packages": [
         {
@@ -109,6 +109,27 @@
         },
         {
             "url": "https://github.com/SwifterSwift/SwifterSwift"
+        },
+        {
+            "url": "https://github.com/nicklockwood/SwiftFormat.git"
+        },
+        {
+            "url": "https://github.com/realm/SwiftLint.git"
+        },
+        {
+            "url": "https://github.com/pointfreeco/swift-composable-architecture.git"
+        },
+        {
+            "url": "https://github.com/pointfreeco/swift-snapshot-testing.git"
+        },
+        {
+            "url": "https://github.com/apple/swift-argument-parser.git"
+        },
+        {
+            "url": "https://github.com/HeroTransitions/Hero"
+        },
+        {
+            "url": "https://github.com/CombineCommunity/CombineCocoa"
         }
-    ]
+   ]
 }
